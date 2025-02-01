@@ -1,3 +1,6 @@
+# Hi, there! 👋
+
+## About me
 - 👋 Hi, I’m @AdascaliteiAndra25, I am a third-year Computer Science student, ready and eager to apply my knowledge in the field. 
 - 👀 I enjoy learning and continuously improving myself by exploring new technologies and approaches that help me grow as a professional. 🌱
 - Feel free to explore my repositories and dive into the projects I've worked on. I am always open to feedback and collaboration opportunities! 
