@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="![Animation](https://github.com/AdascaliteiAndra25/AdascaliteiAndra25/blob/main/coding.gif)">
+  <img src="https://github.com/AdascaliteiAndra25/AdascaliteiAndra25/blob/main/coding.gif" alt="Animation">
 </p>
 
 <!---
