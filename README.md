@@ -12,7 +12,7 @@
 - MySQL 
 - Python
 - Spring Framework
-- React
+
 
 <p align="center">
   <img src="https://github.com/AdascaliteiAndra25/AdascaliteiAndra25/blob/main/coding.gif" alt="Animation">
